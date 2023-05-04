@@ -14,7 +14,8 @@ pkg install python2
 ```
 pkg install python3
 ```
-```pkg install git
+```
+pkg install git
 ```
 ```
 git clone https://github.com/hacker-hub8/DDos.git
