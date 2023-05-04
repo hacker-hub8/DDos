@@ -39,3 +39,7 @@ python DDos.py
 * ` type "nslookup -s" `
 * ` enter the website to get ip `
 # ##########################
+# ` Follow us `
+
+
+
