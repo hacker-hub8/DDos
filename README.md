@@ -17,7 +17,7 @@
 
 # #########################
 ` how to get ip of website `
-open cmd 
-type "nslookup -s"
-enter the website to get ip
+* `` open cmd `` 
+* type "nslookup -s"
+* enter the website to get ip
 # ##########################
