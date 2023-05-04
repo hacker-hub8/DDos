@@ -44,5 +44,7 @@ python DDos.py
 <p align="center">
 <a href="https://telegram.me/hacker_hub8"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
 </p>
-
+<p align="center">
+<a href="https://instagram.com/hacker_hub8"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
+</p>
 
