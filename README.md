@@ -41,5 +41,8 @@ python DDos.py
 # ##########################
 # ` Follow us `
 
+<p align="center">
+<a href="https://telegram.me/hacker_hub8"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
+</p>
 
 
