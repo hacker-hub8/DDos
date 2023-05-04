@@ -16,7 +16,7 @@
 ( python DDos.py -s "put website ip" -t 135)
 
 # #########################
-how to get ip of website
+' how to get ip of website'
 open cmd 
 type "nslookup -s"
 enter the website to get ip
